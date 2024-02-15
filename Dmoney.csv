@@ -1,0 +1,5 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1697615581417,1942,Login,200,OK,Thread Group 1-1,text,true,,593,312,1,1,https://dmoney.roadtocareer.net/user/login,1938,0,435
+1697615583390,53,Create new User,201,Created,Thread Group 1-1,text,true,,615,618,1,1,https://dmoney.roadtocareer.net/user/create,53,0,0
+1697615583444,46,Search user,200,OK,Thread Group 1-1,text,true,,616,423,1,1,http://dmoney.roadtocareer.net/user/search/id/35011,46,0,6
+1697615583494,15,delete user,200,OK,Thread Group 1-1,text,true,,375,442,1,1,https://dmoney.roadtocareer.net/user/delete/35011,15,0,0
